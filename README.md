@@ -4,11 +4,11 @@
 
 Redis Desktop Manager Builder for windows and macOS
 
-Official Download: [https://rdm.dev](https://rdm.dev)
+Official Download: [https://resp.app](https://resp.app)
 
 一个编译Windows版和macOS版Redis Desktop Manager的Github Action。
 
-有条件的同学请支持官方版本: [https://rdm.dev](https://rdm.dev)
+有条件的同学请支持官方版本: [https://resp.app](https://resp.app)
 
 其他版本：
 
@@ -28,3 +28,4 @@ Official Download: [https://rdm.dev](https://rdm.dev)
 - [rdm编译打包的github Action配置](https://onew.me/2020/07/01/rdm-action/)
 - [Qt使用github-Actions自动化发行](https://zhuanlan.zhihu.com/p/95926317)
 - [源码编译Redis Desktop Manager](https://kany.me/2019/10/10/compile-redis-desktop-manager/)
+- [JetBrains Open Source Support](https://www.jetbrains.com/community/opensource/#support)
